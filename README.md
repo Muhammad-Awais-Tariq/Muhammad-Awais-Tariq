@@ -23,50 +23,89 @@
 ```python
 class MuhammadAwaisTariq:
     def __init__(self):
-        self.name       = "Muhammad Awais Tariq"
-        self.location   = "Kamra, Pakistan 🇵🇰"
-        self.university = "COMSATS University Islamabad — Attock Campus"
-        self.role       = "Python Developer"
-        self.contact    = "muhammad.awais.tariq.dev@gmail.com"
-        self.github     = "github.com/Muhammad-Awais-Tariq"
+        self.name        = "Muhammad Awais Tariq"
+        self.location    = "Kamra, Pakistan 🇵🇰"
+        self.university  = "COMSATS University Islamabad — Attock Campus"
+        self.role        = "Python Developer"
+        self.email       = "muhammad.awais.tariq.dev@gmail.com"
+        self.github      = "github.com/Muhammad-Awais-Tariq"
 
     @property
-    def stack(self):
+    def tech_stack(self):
         return {
-            "primary":    ["Python"],
-            "secondary":  ["Java"],
-            "cs_core":    ["Data Structures & Algorithms", "OOP", "Problem Solving"],
-            "web":        ["Streamlit"],
-            "databases":  ["MongoDB", "PyMongo", "MongoDB Atlas"],
-            "libraries":  ["BeautifulSoup", "requests", "yt-dlp",
-                           "cryptography", "pandas", "python-dotenv"],
-            "exploring":  ["Machine Learning", "scikit-learn", "NumPy"],
-            "tools":      ["Git", "GitHub", "VS Code"],
+            "languages": [
+                "Python",
+                "Java",
+            ],
+
+            "computer_science": [
+                "Data Structures & Algorithms",
+                "Object-Oriented Programming",
+                "Problem Solving",
+            ],
+
+            "web_development": [
+                "Streamlit",
+            ],
+
+            "databases": [
+                "MongoDB",
+                "PyMongo",
+                "MongoDB Atlas",
+            ],
+
+            "libraries": [
+                "BeautifulSoup",
+                "requests",
+                "yt-dlp",
+                "cryptography",
+                "pandas",
+                "python-dotenv",
+            ],
+
+            "currently_exploring": [
+                "Machine Learning",
+                "scikit-learn",
+                "NumPy",
+            ],
+
+            "tools": [
+                "Git",
+                "GitHub",
+                "VS Code",
+            ],
         }
 
-    def projects(self):
+    def featured_projects(self):
         return {
-            "News Scraper":        "CLI news aggregator — TechCrunch, The Verge & Medical News Today",
-            "Password Manager":    "Fernet-encrypted CLI vault with PBKDF2 key derivation",
-            "YouTube Downloader":  "CLI + Streamlit app — quality selection & playlist support",
-            "Student MS":          "Streamlit + MongoDB web app — GPA tracking, ranking & admin panel",
+            "News Scraper":
+                "CLI-based news aggregator for TechCrunch, The Verge & Medical News Today",
+
+            "Password Manager":
+                "Encrypted CLI password vault using Fernet & PBKDF2",
+
+            "YouTube Downloader":
+                "CLI + Streamlit downloader with playlist & quality support",
+
+            "Student Management System":
+                "Streamlit + MongoDB academic management platform",
         }
 
-    def current_mission(self):
+    def current_focus(self):
         return [
-            "🐍 Sharpening Python through real-world, shipped projects",
-            "☕ Building strong Java & OOP foundations",
-            "🧠 Studying Data Structures & Algorithms",
-            "🤖 Taking first steps into Machine Learning territory",
+            "🐍 Building real-world Python projects",
+            "☕ Strengthening Java & OOP fundamentals",
+            "🧠 Practicing Data Structures & Algorithms",
+            "🤖 Exploring Machine Learning step by step",
         ]
 
     def __str__(self):
-        return "Writing code that actually works. Mostly."
+        return "Writing code that solves real problems."
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
