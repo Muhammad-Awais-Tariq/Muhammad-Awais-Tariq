@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 <br/><br/>
 
@@ -198,16 +198,7 @@ A complete academic management platform with dual login roles. Students see thei
   <img src="https://streak-stats.demolab.com?user=Muhammad-Awais-Tariq&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&currStreakNum=FF8C00" alt="GitHub Streak" />
 </picture>
 
-<br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Awais-Tariq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/Muhammad-Awais-Tariq)
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Awais-Tariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Awais-Tariq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" height="180" />
-</picture>
 
 </div>
 
