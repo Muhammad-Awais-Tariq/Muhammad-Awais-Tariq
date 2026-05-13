@@ -281,6 +281,7 @@ A complete academic management platform with dual login roles. Students see thei
 </div>
 
 <br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
 
 <div align="center">
 
@@ -296,6 +297,5 @@ A complete academic management platform with dual login roles. Students see thei
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D1117,50:1B1464,100:6C63FF&height=160&section=footer&text=Stay%20Curious.%20Keep%20Shipping.&fontSize=36&fontColor=FFD700&animation=twinkling&fontAlignY=62"/>
 
-[![Built with 🐍](https://img.shields.io/badge/Built%20with-🐍%20Python%20%26%20Persistence-6C63FF?style=for-the-badge)](https://github.com/Muhammad-Awais-Tariq)
-
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
