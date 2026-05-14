@@ -253,6 +253,7 @@ A complete academic management platform with dual login roles. Students see thei
 ## 🌐 Connect With Me
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadawaistariq/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Awais-Tariq)
@@ -260,7 +261,7 @@ A complete academic management platform with dual login roles. Students see thei
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"/>
+
 
 </div>
 
