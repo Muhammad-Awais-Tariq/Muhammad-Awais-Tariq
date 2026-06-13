@@ -275,9 +275,9 @@ A complete academic management platform with dual login roles. Students see thei
 
 ### 💡 A Thought to Code By
 
-> *"Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 >
-> — **Alan Perlis**
+> — **Martin Fowler**
 
 </div>
 
