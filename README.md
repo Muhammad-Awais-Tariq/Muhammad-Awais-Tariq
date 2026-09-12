@@ -1,16 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,50:1B1464,100:6C63FF&height=210&section=header&text=MUHAMMAD%20AWAIS%20TARIQ&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=50&desc=Python%20Developer%20%7C%20Problem%20Solver%20%7C%20Always%20Building&descAlignY=75&descSize=17&descColor=CCCCFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,50:1B1464,100:6C63FF&height=210&section=header&text=MUHAMMAD%20AWAIS%20TARIQ&fontSize=55&fontColor=FFD700&animation=fadeIn&fontAlignY=50&desc=CS%20Student%20%7C%20Machine%20Learning%20%7C%20End-to-End%20ML%20Pipelines&descAlignY=75&descSize=17&descColor=CCCCFF"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-<br/><br/>
-
-![Status](https://img.shields.io/badge/Status-Actively_Building-FFD700?style=for-the-badge&labelColor=0D1117)
-![Focus](https://img.shields.io/badge/Focus-Python_%26_Real_Projects-6C63FF?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=white)
-![Mode](https://img.shields.io/badge/Mode-Always_Learning-00D4FF?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/Focus-Machine_Learning-FF6F00?style=for-the-badge&labelColor=0D1117&logo=scikit-learn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Building_ML_Pipelines-6C63FF?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -24,49 +19,39 @@
 class MuhammadAwaisTariq:
     def __init__(self):
         self.name        = "Muhammad Awais Tariq"
-        self.location    = "Kamra, Pakistan 🇵🇰"
         self.university  = "COMSATS University Islamabad — Attock Campus"
-        self.role        = "Python Developer"
+        self.focus       = "Machine Learning"
         self.email       = "muhammad.awais.tariq.dev@gmail.com"
         self.github      = "github.com/Muhammad-Awais-Tariq"
 
     @property
     def tech_stack(self):
         return {
+            "ml": [
+                "Scikit-Learn",
+                "XGBoost",
+                "Feature Engineering",
+                "Model Comparison & Ensembling",
+            ],
+
+            "data": [
+                "Pandas",
+                "NumPy",
+                "Matplotlib",
+                "Seaborn",
+            ],
+
+            "deployment": [
+                "Streamlit",
+            ],
+
             "languages": [
                 "Python",
                 "Java",
             ],
 
-            "computer_science": [
-                "Data Structures & Algorithms",
-                "Object-Oriented Programming",
-                "Problem Solving",
-            ],
-
-            "web_development": [
-                "Streamlit",
-            ],
-
             "databases": [
                 "MongoDB",
-                "PyMongo",
-                "MongoDB Atlas",
-            ],
-
-            "libraries": [
-                "BeautifulSoup",
-                "requests",
-                "yt-dlp",
-                "cryptography",
-                "pandas",
-                "python-dotenv",
-            ],
-
-            "currently_exploring": [
-                "Machine Learning",
-                "scikit-learn",
-                "NumPy",
             ],
 
             "tools": [
@@ -76,31 +61,16 @@ class MuhammadAwaisTariq:
             ],
         }
 
-    def featured_projects(self):
-        return {
-            "News Scraper":
-                "CLI-based news aggregator for TechCrunch, The Verge & Medical News Today",
-
-            "Password Manager":
-                "Encrypted CLI password vault using Fernet & PBKDF2",
-
-            "YouTube Downloader":
-                "CLI + Streamlit downloader with playlist & quality support",
-
-            "Student Management System":
-                "Streamlit + MongoDB academic management platform",
-        }
-
     def current_focus(self):
         return [
-            "🐍 Building real-world Python projects",
-            "☕ Strengthening Java & OOP fundamentals",
-            "🧠 Practicing Data Structures & Algorithms",
-            "🤖 Exploring Machine Learning step by step",
+            "Building end-to-end ML pipelines: raw data → deployed app",
+            "Comparing and evaluating models properly, not just fitting one",
+            "Working through Kaggle Playground competitions",
+            "Completed Andrew Ng's Machine Learning Specialization (Stanford / DeepLearning.AI)",
         ]
 
     def __str__(self):
-        return "Writing code that solves real problems."
+        return "Turning raw data into deployed predictions."
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
@@ -109,40 +79,23 @@ class MuhammadAwaisTariq:
 
 <div align="center">
 
+### 🤖 Machine Learning
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0075A8?style=for-the-badge&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🧠 CS Fundamentals
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-6C63FF?style=for-the-badge&logo=thealgorithms&logoColor=white)
-![OOP](https://img.shields.io/badge/Object_Oriented_Programming-00D4FF?style=for-the-badge&logoColor=black)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFD700?style=for-the-badge&logo=leetcode&logoColor=black)
-
-### 🌐 Web & Frameworks
+### 🌐 Deployment & Data
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-00ED64?style=for-the-badge&logo=mongodb&logoColor=black)
 
-### 📦 Python Libraries
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-FFD700?style=for-the-badge&logo=python&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PyMongo](https://img.shields.io/badge/PyMongo-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![python-dotenv](https://img.shields.io/badge/python--dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-
-### 🤖 Exploring
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🛠️ Dev Tools
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -156,69 +109,50 @@ class MuhammadAwaisTariq:
 <tr>
 <td width="50%" valign="top">
 
-### 📰 News Scraper
-> *Multi-source CLI News Aggregator*
+### 🚗 Electric Vehicle Purchase Prediction
+> *End-to-end ML pipeline — raw survey data to deployed app*
 
-Pulls the latest tech & medical news from **TechCrunch**, **The Verge**, and **Medical News Today** straight into your terminal. Filters by time, kills duplicate headlines, and lets you control how many articles you see.
-
-- ⏱️ Time-based article filtering
-- 🔍 Similarity-based headline deduplication
-- 📂 Category & count selection via CLI
+Predicts EV purchase likelihood from survey data. Goes through full preprocessing and feature engineering, compares multiple models, and pushes performance further with ensembling/stacking before deployment.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-grey?style=flat-square&logo=python&logoColor=white)
-![Requests](https://img.shields.io/badge/Requests-6C63FF?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0075A8?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Password Manager
-> *Encrypted CLI Vault*
+### 📱 Smartphone Addiction Prediction
+> *End-to-end ML pipeline — raw survey data to deployed app*
 
-A terminal-based password vault that never stores a single plaintext character. Encrypts every entry with **Fernet** symmetric encryption backed by **PBKDF2HMAC** key derivation at 1.2 million iterations.
-
-- 🔑 Fernet symmetric encryption
-- 🛡️ PBKDF2HMAC — 1.2M iterations
-- 📁 Per-app storage & retrieval
+Predicts smartphone addiction risk from survey data, with a focus on doing model comparison and evaluation properly rather than picking one model by default.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cryptography](https://img.shields.io/badge/Cryptography-FFD700?style=flat-square&logo=python&logoColor=black)
-![SHA256](https://img.shields.io/badge/SHA256-6C63FF?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📥 YouTube Downloader
-> *CLI + Streamlit Video & Playlist Downloader*
+### 🚀 Spaceship Titanic Survival Prediction
+> *Kaggle-style ML pipeline — raw passenger data to deployed app*
 
-Two interfaces, one engine. Paste any YouTube URL — single video or full playlist — pick your quality, and download. Built on **yt-dlp** with an optional Streamlit web UI for those who prefer a browser over a terminal.
-
-- 🎬 Quality selection from 360p up to 1080p
-- 📋 Full playlist download with resume support
-- 🌐 Streamlit web UI as an alternative to CLI
+Predicts passenger survival from the Spaceship Titanic dataset, with a focus on feature engineering and fair model comparison.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=flat-square&logo=youtube&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Student Management System
-> *Full-Stack Web App — Streamlit + MongoDB*
+### 🏥 Insurance Charges Prediction
+> *End-to-end ML pipeline — raw personal data to deployed app*
 
-A complete academic management platform with dual login roles. Students see their grades, GPA, rank, and courses. Admins enroll students, manage records, view analytics, and edit marks — all backed live by **MongoDB Atlas**.
-
-- 📊 GPA tracking & dense ranking system
-- 🛠️ Admin panel with analytics & edit/drop
-- ☁️ Live MongoDB Atlas cloud backend
+Predicts insurance charges from personal/demographic data, with a focus on preprocessing and fair model comparison across regression approaches.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 </td>
 </tr>
@@ -228,7 +162,7 @@ A complete academic management platform with dual login roles. Students see thei
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -237,20 +171,11 @@ A complete academic management platform with dual login roles. Students see thei
   <img src="https://streak-stats.demolab.com?user=Muhammad-Awais-Tariq&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&currStreakNum=FF8C00" alt="GitHub Streak" />
 </picture>
 
-
-
-</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Awais-Tariq&custom_title=Muhammad%20Awais%20Tariq's%20Contribution%20Graph&bg_color=0d1117&color=FFD700&line=6C63FF&point=00D4FF&area=true&hide_border=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Awais-Tariq&custom_title=Muhammad%20Awais%20Tariq's%20Contribution%20Graph&bg_color=0d1117&color=FFD700&line=6C63FF&point=00D4FF&area=true&hide_border=true" alt="Contribution Graph" />
-</picture>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="400"/>
@@ -259,13 +184,7 @@ A complete academic management platform with dual login roles. Students see thei
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Awais-Tariq)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.awais.tariq.dev@gmail.com)
 
-<br/>
-
-
-
 </div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
 
@@ -282,21 +201,4 @@ A complete academic management platform with dual login roles. Students see thei
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Awais-Tariq&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Awais-Tariq&theme=tokyonight" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Awais-Tariq&theme=tokyonight&utcOffset=5" width="32%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0D1117,50:1B1464,100:6C63FF&height=160&section=footer&text=Stay%20Curious.%20Keep%20Shipping.&fontSize=36&fontColor=FFD700&animation=twinkling&fontAlignY=62"/>
-
-</div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00D4FF,100:6C63FF&height=3"/>
